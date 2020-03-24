@@ -5,4 +5,4 @@ This repository contains 3 programming assignments in Python for the ECE NTUA Co
 
 * Lab2 ~ Unsupervised Learning on Carnegie Mellon Movie Summary Corpus using Self-organizing Maps (SOM) and TF-IDF numerical statistic for a movie-recommendation system.
 
-* Lab3 ~ Deep Learning using TensorFlow2 and Keras on CIFAR-100. Convolutional Neural Networks and Transfer Learning.
+* Lab3 ~ Deep Learning using TensorFlow2 on CIFAR-100. Convolutional Neural Networks and Transfer Learning.
